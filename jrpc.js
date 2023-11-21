@@ -34,12 +34,12 @@ StepBody[0] = "<ol><li><h4>Find overview/background information</h4><ul><li>Use 
       "<a href=\"http://www.libraries.psu.edu/psul/lls/students/research_resources/conceptmap.html\" target=\"_blank\">Create a concept map</a> " +
       "to focus your research and identify relationships between concepts.</li>" +
       "<li>Be prepared to modify your research question to achieve a manageable focus. " +
-      "<a href=\"http://libguides.libraries.claremont.edu/content.php?pid=192635&sid=1615318\" target=\"_blank\">Research Strategies and Tips: " +
+      "<a href=\"https://sunybroome.info/library/guides/how-find-topic" target=\"_blank\">How to Find a Topic: " +
       "Narrow or Broaden Your Topic</a></li>" +
-      "<li>Consult with an expert: talk to your professor or <a href=\"http://google.com\" target=\"_blank\">" +
+      "<li>Consult with an expert: talk to your professor or <a href=\"https://sunybroome.info/library/book-librarian" target=\"_blank\">" +
       "librarian for assistance</a> in developing an appropriate research question for your project.</li>" +
       "<li>Put your thesis statement in the form of a question. " +
-      "<a href=\"http://google.com\" target=\"_blank\">Formulating a Good Thesis " +
+      "<a href=\"https://sunybroome.info/library/guides/how-formulate-thesis-statement" target=\"_blank\">Formulating a Good Thesis " +
       "Statement</a>.</li>" +
       "</ul></li>" +
       "</ol>" +
