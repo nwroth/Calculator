@@ -21,7 +21,7 @@ var StepTitles = [
 //in order to use the " character within a body's string, use the \ character before it.
 var StepBody = [];
 StepBody[0] = "<ol><li><h4>Find overview/background information</h4><ul><li>Use encyclopedias to find an overview or identify context." +
-      "Your college has many general and subject focused encyclopedias both online and in our print collection. <a href=\"http://google.com\" target=\"_blank\">Credo Reference</a>," +
+      "Your college has many general and subject focused encyclopedias both online and in our print collection. <a href=\"https://suny-bcc.primo.exlibrisgroup.com/discovery/search?query=any,contains,encyclopedia&tab=Everything&search_scope=MyInst_and_CI&vid=01SUNY_BCC:01SUNY_BCC&mfacet=rtype,include,books,1&lang=en&offset=0" target=\"_blank\">Encyclopedias at the library</a>," +
       "<a href=\"http://google.com\">Gale Virtual Reference Library</a>, and " +
       "<a href=\"http://google.com\"  target=\"_blank\">Oxford Reference Online</a> are collections " +
       "that allow you to search many reference books and encyclopedias at once.</li>" +
