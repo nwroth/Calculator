@@ -21,8 +21,9 @@ var StepTitles = [
 //in order to use the " character within a body's string, use the \ character before it.
 var StepBody = [];
 StepBody[0] = "<ol><li><h4>Find overview/background information</h4><ul><li>Use encyclopedias to find an overview or identify context." +
-      "Your college has many general and subject focused encyclopedias both online and in our print collection. <a href=\"https://suny-bcc.primo.exlibrisgroup.com/discovery/search?query=any,contains,encyclopedia&tab=Everything&search_scope=MyInst_and_CI&vid=01SUNY_BCC:01SUNY_BCC&mfacet=rtype,include,books,1&lang=en&offset=0" target=\"_blank\">Encyclopedias in the library Discovery Search</a>," +
-      "<a href=\"http://webster.sunybroome.edu:2048/login?url=https://go.gale.com/ps/start.do?p=GVRL&u=sunybroome">Gale Virtual Reference Library</a>, are collections " +
+      "Your college has many general and subject focused encyclopedias both online and in our print collection. <a href=\"http://google.com\" target=\"_blank\">Credo Reference</a>," +
+      "<a href=\"http://google.com\">Gale Virtual Reference Library</a>, and " +
+      "<a href=\"http://google.com\"  target=\"_blank\">Oxford Reference Online</a> are collections " +
       "that allow you to search many reference books and encyclopedias at once.</li>" +
       "<li>Begin to identify search terms brainstorm words that you feel reflect main concepts of your topic. Try searching with different " +
       "combinations of these words. Look for related terms that appear in your search results. When searching library research databases pay " +
@@ -34,12 +35,12 @@ StepBody[0] = "<ol><li><h4>Find overview/background information</h4><ul><li>Use 
       "<a href=\"http://www.libraries.psu.edu/psul/lls/students/research_resources/conceptmap.html\" target=\"_blank\">Create a concept map</a> " +
       "to focus your research and identify relationships between concepts.</li>" +
       "<li>Be prepared to modify your research question to achieve a manageable focus. " +
-      "<a href=\"https://sunybroome.info/library/guides/how-find-topic" target=\"_blank\">How to Find a Topic: " +
+      "<a href=\"http://libguides.libraries.claremont.edu/content.php?pid=192635&sid=1615318\" target=\"_blank\">Research Strategies and Tips: " +
       "Narrow or Broaden Your Topic</a></li>" +
-      "<li>Consult with an expert: talk to your professor or <a href=\"https://sunybroome.info/library/book-librarian" target=\"_blank\">" +
+      "<li>Consult with an expert: talk to your professor or <a href=\"http://google.com\" target=\"_blank\">" +
       "librarian for assistance</a> in developing an appropriate research question for your project.</li>" +
       "<li>Put your thesis statement in the form of a question. " +
-      "<a href=\"https://sunybroome.info/library/guides/how-formulate-thesis-statement" target=\"_blank\">Formulating a Good Thesis " +
+      "<a href=\"http://google.com\" target=\"_blank\">Formulating a Good Thesis " +
       "Statement</a>.</li>" +
       "</ul></li>" +
       "</ol>" +
